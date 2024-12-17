@@ -19,10 +19,9 @@
 .paragrafo{
     margin: 0 auto;
     font-size: 18px;
-    width: 500px;
+    width: 80%;
     text-align: center;
     line-height: 28px;
-    display: flex;
 }
 
 /* ===Secão TOPO=== */
@@ -35,7 +34,8 @@
 .paragrafo-topo{
     text-align: justify;
     margin: 0 auto;
-    width: 100%;
+    width: 80%;
+    text-align: center;
 }
 
 .link-topo{
@@ -43,6 +43,7 @@
     border-bottom: 2px solid #dfc351;
     text-decoration: none;
     margin: 0 auto;
+    margin: 10px;
 }
 
 /* ===Secão SOBRE=== */
@@ -50,12 +51,16 @@
 .sobre h1{
     color: #dfc351;
     margin-bottom: 5px;
+    margin-bottom: 10px;
+    margin-top: 10px;
 }
 
 .sobre h2{
     color: #ffffff;
     margin-top: 0;
     font-weight: normal;
+    margin-bottom: 10px;
+    margin-top: 10px;
 }
 
 .sobre img{
@@ -70,7 +75,7 @@
     color: #dfc351;
     line-height: 42px;
     font-size: 22px;
-    width: 100%;
+    width: 80%;
     text-align: justify;
     margin: 0 auto;
     display: flex;
@@ -85,13 +90,15 @@
     color: #ffffff;
     font-size: 28px;
     line-height: 42px;
+    margin-bottom: 10px;
+    margin-top: 10px;
 }
 
 .paragrafo-cortes{
     color: #dfc351;
     line-height: 42px;
     font-size: 22px;
-    width: 100%;
+    width: 80%;
     text-align: justify;
     margin: 0 auto;
     display: flex;
@@ -111,6 +118,7 @@
 .contato iframe{
     width: 50%;
     height: 50%;
+    object-fit: contain;
 }
 
 .paragrafo-contato{
@@ -121,8 +129,8 @@
     margin-bottom: 30px;
     line-height: 30px;
     font-size: 22px;
-    text-align: center;
-    width: 100%;
+    text-align: justify;
+    width: 80%;
 }
 
 .contato img{
