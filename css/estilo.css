@@ -8,7 +8,6 @@
 /* === Estilos globais === */
 
 .secao{
-    border: 1px solid red;
     text-align: center;
     padding-top: 30px;
     padding-bottom: 30px;
@@ -18,7 +17,6 @@
 }
 
 .paragrafo{
-    border: 1px solid red;
     margin: 0 auto;
     font-size: 18px;
     width: 500px;
@@ -30,20 +28,17 @@
 /* ===Secão TOPO=== */
 
 .topo img{
-    border: 1px solid red;
     width: 150px;
     margin-bottom: 15px;
 }
 
 .paragrafo-topo{
-    border: 1px solid red;
     text-align: justify;
     margin: 0 auto;
     width: 100%;
 }
 
 .link-topo{
-    border: 1px solid red;
     color: #ffffff;
     border-bottom: 2px solid #dfc351;
     text-decoration: none;
@@ -53,20 +48,17 @@
 /* ===Secão SOBRE=== */
 
 .sobre h1{
-    border: 1px solid red;
     color: #dfc351;
     margin-bottom: 5px;
 }
 
 .sobre h2{
-    border: 1px solid red;
     color: #ffffff;
     margin-top: 0;
     font-weight: normal;
 }
 
 .sobre img{
-    border: 1px solid red;
     display: flexbox;
     width: 200px;
     height: 200px;
@@ -75,7 +67,6 @@
 }
 
 .paragrafo-sobre{
-    border: 1px solid red;
     color: #dfc351;
     line-height: 42px;
     font-size: 22px;
@@ -91,14 +82,12 @@
 /* ===Secão Cortes=== */
 
 .cortes h2{
-    border: 1px solid red;
     color: #ffffff;
     font-size: 28px;
     line-height: 42px;
 }
 
 .paragrafo-cortes{
-    border: 1px solid red;
     color: #dfc351;
     line-height: 42px;
     font-size: 22px;
@@ -110,7 +99,6 @@
 }
 
 .cortes img{
-    border: 1px solid red;
     display: flexbox;
     width: 200px;
     height: 200px;
@@ -121,14 +109,11 @@
 /* ===Secão CONTATOS=== */
 
 .contato iframe{
-    border: 1px solid red;
     width: 50%;
     height: 50%;
-    object-fit: cover;
 }
 
 .paragrafo-contato{
-    border: 1px solid red;
     background-color: #1d1d1d;
     color: #dfc351;
     padding: 15px;
@@ -141,7 +126,6 @@
 }
 
 .contato img{
-    border: 1px solid red;
     width: 150px;
     height: 100px;
     object-fit: contain;
