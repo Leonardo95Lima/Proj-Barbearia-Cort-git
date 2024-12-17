@@ -19,9 +19,10 @@
 .paragrafo{
     margin: 0px auto;
     font-size: 18px;
-    width: 980px;
+    width: 500px;
     text-align: justify;
     line-height: 28px;
+    display: flex;
 }
 
 /* ===Secão TOPO=== */
