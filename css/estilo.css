@@ -1,0 +1,129 @@
+/*Secão Reset*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* === Estilos globais === */
+
+.secao{
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin: 0 auto;
+    background-color: #000000;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.paragrafo{
+    margin: 0px auto;
+    font-size: 18px;
+    width: 980px;
+    text-align: justify;
+    line-height: 28px;
+}
+
+/* ===Secão TOPO=== */
+
+.topo img{
+    width: 150px;
+}
+
+.paragrafo-topo{
+    text-align: center;
+    margin: 0 auto;
+    width: 500px;
+}
+
+.link-topo{
+    color: #ffffff;
+    border-bottom: 2px solid #dfc351;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+/* ===Secão SOBRE=== */
+
+.sobre h1{
+    color: #dfc351;
+    margin-bottom: 5px;
+}
+
+.sobre h2{
+    color: #ffffff;
+    margin-top: 0;
+    font-weight: normal;
+}
+
+.sobre img{
+    display: flexbox;
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    margin: 2px;
+}
+
+.paragrafo-sobre{
+    color: #dfc351;
+    line-height: 42px;
+    font-size: 22px;
+    width: 500px;
+    text-align: center;
+    margin: 0 auto;
+    display: flex;
+}
+
+
+
+/* ===Secão Cortes=== */
+
+.cortes h2{
+    color: #ffffff;
+    font-size: 28px;
+    line-height: 42px;
+}
+
+.paragrafo-cortes{
+    color: #dfc351;
+    line-height: 42px;
+    font-size: 22px;
+    width: 500px;
+    text-align: center;
+    margin: 0 auto;
+    display: flex;
+}
+
+.cortes img{
+    display: flexbox;
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    margin: 2px;
+}
+
+/* ===Secão CONTATOS=== */
+
+.contato iframe{
+    width: 450px;
+    height: 300px;
+    object-fit: cover;
+}
+
+.paragrafo-contato{
+    background-color: #1d1d1d;
+    color: #dfc351;
+    padding: 15px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    line-height: 42px;
+    font-size: 22px;
+    text-align: center;
+    width: 500px;
+}
+
+.contato img{
+    width: 150px;
+    height: 100px;
+    object-fit: contain;
+}
